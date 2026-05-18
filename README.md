@@ -36,12 +36,12 @@ Getting dirt work on conventional ML and agentic AI systems. First real dive int
 ###  My Github Ecosystem
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dracula&include_all_commits=true" alt="Muzammil's GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=dracula" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=googl3x1&show_icons=true&theme=dracula&include_all_commits=true" alt="Muzammil's GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=googl3x1&layout=compact&theme=dracula" alt="Top Languages" height="160px"/>
 </p>
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 * **Looking for:** Collaborations on Agentic AI frameworks, automation workflows, or standard ML pipelines.
 * Feel free to open an issue or drop a pull request if you see something you want to optimize together!
