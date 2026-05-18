@@ -6,8 +6,9 @@ Getting dirt work on conventional ML and agentic AI systems. First real dive int
 
 <p align="left">
   <a href="https://linkedin.com/in/muzammil-abbas-1875b7226" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Email-mabbas20055%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mabbas20055@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-mabbas20055%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
 ---
 
 ###  My Tech Stack
