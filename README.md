@@ -6,8 +6,7 @@ Getting dirt work on conventional ML and agentic AI systems. First real dive int
 
 <p align="left">
   <a href="https://linkedin.com/in/muzammil-abbas-1875b7226" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mabbas20055@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="https://img.shields.io/badge/Email-mabbas20055%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 
 ---
 
@@ -33,13 +32,7 @@ Getting dirt work on conventional ML and agentic AI systems. First real dive int
 
 ---
 
-###  My Github Ecosystem
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-abbas&show_icons=true&theme=dracula&include_all_commits=true" alt="Muzammil's GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-abbas&layout=compact&theme=dracula" alt="Top Languages" height="160px"/>
-</p>
----
 
 ###  Let's Connect!
 * **Looking for:** Collaborations on Agentic AI frameworks, automation workflows, or standard ML pipelines.
