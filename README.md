@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey there, I'm Muzammil Abbas! 👋
 
-<!--
-**googl3x1/googl3x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Crack backbencher reviving myself | 3rd Year BS AI | ML & Agentic AI Builder
 
-Here are some ideas to get you started:
+Getting dirt work on conventional ML and agentic AI systems. First real dive into the AI rabbit hole. Problem solver. Always learning. Open to collaborations and feedback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🛠️ My Tech Stack
+
+* **Languages:** * `Python` (Intermediate)
+    * `Java` (Basic)
+    * `C` (Basic)
+* **ML & AI Tools:** * `TensorFlow`
+    * `Scikit-learn`
+* **Currently Exploring:** * Hands-on exploration of ML pipelines 
+    * Building autonomous agent systems with the `OpenClaw` framework
+
+---
+
+### 🚀 What I'm Building
+
+#### 🤖 [Sau1ron — OpenClaw Discord Application](https://github.com/YOUR_GITHUB_USERNAME_HERE/sau1ron)
+*An autonomous agent application built using the Node.js OpenClaw framework to step into workflow automation via Discord triggers.*
+
+#### 🔬 [Chest Pathologies Diagnosis System](https://github.com/YOUR_GITHUB_USERNAME_HERE/Chest_pathologies_diagnosis)
+*A practical deep-dive repository focusing on processing medical imaging datasets through custom machine learning and vision pipelines.*
+
+---
+
+### 📊 My Github Ecosystem
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dracula&include_all_commits=true" alt="Muzammil's GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=dracula" alt="Top Languages" height="160px"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+* **Looking for:** Collaborations on Agentic AI frameworks, automation workflows, or standard ML pipelines.
+* Feel free to open an issue or drop a pull request if you see something you want to optimize together!
