@@ -1,6 +1,6 @@
 # Hey there, I'm Muzammil Abbas! 
 
-###  Crack backbencher reviving myself | 3rd Year BS AI | ML & Agentic AI Builder
+###  Crack backbencher reviving myself | Last Year BS AI | ML & Agentic AI Builder
 
 Getting dirt work on conventional ML and agentic AI systems. First real dive into the AI rabbit hole. Problem solver. Always learning. Open to collaborations and feedback.
 
